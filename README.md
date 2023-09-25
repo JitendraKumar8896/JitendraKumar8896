@@ -50,7 +50,7 @@
  
 ## 📈 Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/JitendraKumar8896">
   <img height="180em" width="49%" margin-right="15px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JitendraKumar8896&theme=radical&show_icons=true&include_all_commits=false&count_private=true"/>
  
