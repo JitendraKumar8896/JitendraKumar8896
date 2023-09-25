@@ -9,7 +9,7 @@
    
 </h3>
 <!----------------------------------- Profile View Section ------------------------------------>
-<p align="left"> <a href="https://www.linkedin.com/in/jitendra-kumar-368050282" target="blank"><img src="" alt="JitendraKumar8896" /></a> <a title="jitendrac8896@gmail.com" href="mailto:jitendrac8896@gmail.com">
+<p align="left"> <a href="https://www.linkedin.com/in/jitendra-kumar-368050282" target="blank"><img src="" alt="" /></a> <a title="jitendrac8896@gmail.com" href="mailto:jitendrac8896@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jitendrac8896@gmail.com" />
     </a></p>
 
@@ -32,10 +32,8 @@
 
 ## 📈 Projects
 
-- **[VTUBE App](#)**: VTUBE App using Flutter , Firebase, Youtube Data API from scratch for Android. This plateform provides a channel specfic videos using there channel id and also supports custom short videos features with caching mechanism.
-- **[Service Booking App](https://play.google.com/store/apps/details?id=com.homeservices.app.book_services)**: This is Service booking app with Chat Features using Service booking API, Firebase, and shared prefrences for crictical data storing with real time notifications.
-- **[Sports betting App](https://play.google.com/store/apps/details?id=com.sportsprince.sports_prince)**: This is many to one chat app without user numer limition Accessibility  (like whatsapp single side group chat but it has limited user), with realtime notifications and implementation of Cricket Api and admin can create Poll for team or player also .
-- **[News App](#)**: This is News App using Wordpress Rest Api with weather features and search and filter category based on API data. Voice read features also integrated on single tap this app is fully customized just change domain and acess post in app.
+- **[Billing Management System](#)**: Billing management System using Python , MySql, Desk application from scratch for desktop. This plateform provides a different  specfic product  using there product price and also quqntity to multiply and so due and create pdf or doc file.
+- **[Rapido_Captain]**: This is Service Rapido_Captain app with add bike, auto and Cab Features using Service driver side API, Firebase, and shared prefrences for crictical data storing with real time notifications.
 
 ## 📄 Working Experience
 
@@ -64,9 +62,9 @@
     <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="#"/>
   </a>
     <a title="jk8752277@gmail.com" href="mailto:jk8752277@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="flutterfever@gmail.com" />
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jk8752277@gmail.com****" />
     </a>
-     <a href="https://twitter.com/sattababa29580" target="blank"><img src="https://img.shields.io/twitter/follow/coderbaba0?logo=twitter&style=for-the-badge" alt="coderbaba0" />
+
 </p>
          
 ## 🛠️ Languages and Tools :
