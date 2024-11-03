@@ -16,7 +16,7 @@
 - 👋 Hi, I’m, a **Full stack developer and Python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  responsible for   software  Development And Web App Development** 
 - 🌱 I’m improving **System design and DSA**.
 - 💬 Ask me about **Hybrid Application Development**
-- 💞️ I’m looking to collaborate on PHP, Laravel,Python Django, firebase, google cloud, appwrite, Django, OpenCV, API.
+- 💞️ I’m looking to collaborate on PHP, Laravel, Python, firebase, google cloud, appwrite, Django, OpenCV, API.
 - 📫 How to reach me **jiendrac8896@gmail.com** and ** jk8752277@gmail.com **
 - 💞️ Love to share knowledge and contribute to Open Source community.
 
@@ -25,7 +25,7 @@
 
 - **Languages**: PHP, Laravel, Python, JavaSript, Java, C, Django
 - **Front-End**: ReactJS, HTML, CSS, Ajax, JQuery
-- **Back-End**: RESTAPI, Sqflite,PostgreSQL, Mysql,(Firebase & Appwrite as BaaS),Hive
+- **Back-End**: RESTAPI, Sqflite,  PostgreSQL, Mysql, MongoDB
 - **Architectural patterns**: MVVM, MVC, MVT
 - **Others** :  Canva
 - **Tools** :  VS Code, Android Studio,GIT,POSTMAN, XAMPP, IntellijIdea
@@ -33,7 +33,7 @@
 ## 📈 Projects
 
 - **[Billing Management System](#)**: Billing management System using Python , MySql, Desk application from scratch for desktop. This plateform provides a different  specfic product  using there product price and also quqntity to multiply and so due and create pdf or doc file.
-- **[E-commerce Website]**:Discuss the essential features and functionality of the e- commerce platform, such as product catalog, shopping cart, user registration/login, payment
+- **[E-commerce Website](#)**:Discuss the essential features and functionality of the e- commerce platform, such as product catalog, shopping cart, user registration/login, payment
 processing, order management, and search functionality.
 
 
@@ -63,7 +63,7 @@ processing, order management, and search functionality.
 ## 🛠️ Languages and Tools :
 
 <p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.php.net/docs.php" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php" width="40" height="40"/> </a>  <a href="https://laravel.com/docs/11.x/readme" target="_blank"> <img src="https://worldvectorlogo.com/logo/laravel-2" alt="laravel" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank"> <img src="https://worldvectorlogo.com/logo/react-2" alt="react" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a>  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <a href="https://www.php.net/docs.php" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php" width="40" height="40"/> </a>  <a href="https://laravel.com/docs/11.x/readme" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a>  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   
 
