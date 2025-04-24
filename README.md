@@ -16,14 +16,14 @@
 - 👋 Hi, I’m, a **Full stack developer and Python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  responsible for   software  Development And Web App Development** 
 - 🌱 I’m improving **System design and DSA**.
 - 💬 Ask me about **Hybrid Application Development**
-- 💞️ I’m looking to collaborate on PHP, Laravel, Python, firebase, google cloud, appwrite, Django, OpenCV, API.
+- 💞️ I’m looking to collaborate on  Python, Java, firebase, Django, OpenCV, API, MySQL, MongoDB, PowerBI Excel (Advance).
 - 📫 How to reach me **jiendrac8896@gmail.com** and ** jk8752277@gmail.com **
 - 💞️ Love to share knowledge and contribute to Open Source community.
 
   
  ## 🛠 Skills
 
-- **Languages**: PHP, Laravel, Python, JavaSript, Java, C, Django
+- **Languages**: Python, JavaSript, Java, C, Django, MySQL, MongoDB, PowerBI Excel (Advance).
 - **Front-End**: ReactJS, HTML, CSS, Ajax, JQuery
 - **Back-End**: RESTAPI, Sqflite,  PostgreSQL, Mysql, MongoDB
 - **Architectural patterns**: MVVM, MVC, MVT
@@ -39,14 +39,17 @@ processing, order management, and search functionality.
 
 ## 📄 Working Experience
 
-- **Software Developer**:  (July 2023 - Present)
+- **Software Developer**:  (July 2023 - Feb 2024) in Cabbalistic Technologies pvt ltd Noida(U.P) 
 - **Full Stack Developer Trainning **:  (Augest 2023 - April 2024)
 
+## 🎓 Training
 
+- **Avodha.com**: Full Stack Developer Trainning.
+- **Hyper techglobal technologies**: Data Analyst Trainning.
 
 ## 🎓 Education
 
-- **Avodha.com**: Full Stack Developer Trainning.
+
 - **BCA**: Swami Vivekanand Shubharti University Meerut(UP).
 - **MCA**: Swami Vivekanand Shubharti University Meerut(UP).
  
