@@ -16,15 +16,15 @@
 - 👋 Hi, I’m, a **Full stack developer and Python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  responsible for   software  Development And Web App Development** 
 - 🌱 I’m improving **System design and DSA**.
 - 💬 Ask me about **Hybrid Application Development**
-- 💞️ I’m looking to collaborate on  Python, Java, firebase, Django, OpenCV, API, MySQL, MongoDB, PowerBI Excel (Advance).
+- 💞️ I’m looking to collaborate on  PowerBI, Excel (Advance), tableau, Python, Java,  Django, OpenCV, API, MySQL, MongoDB..
 - 📫 How to reach me **jiendrac8896@gmail.com** and ** jk8752277@gmail.com **
 - 💞️ Love to share knowledge and contribute to Open Source community.
 
   
  ## 🛠 Skills
 
-- **Languages**: Python, JavaSript, Java, C, Django, MySQL, MongoDB, PowerBI Excel (Advance).
-- **Front-End**: ReactJS, HTML, CSS, Ajax, JQuery
+- **Languages**: Python, JavaSript, Java, Django, MySQL, MongoDB, PowerBI Excel (Advance).
+- **Front-End**: ReactJS, HTML.
 - **Back-End**: RESTAPI, Sqflite,  PostgreSQL, Mysql, MongoDB
 - **Architectural patterns**: MVVM, MVC, MVT
 - **Others** :  Canva
